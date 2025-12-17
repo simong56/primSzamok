@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace primSzamok
 {
-    internal class PrimeChecker
+    public class PrimeChecker
     {
         public static bool IsPrime(int number)
         {
